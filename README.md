@@ -31,13 +31,6 @@ Ardahan Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Geleneksel yazı
 
 ---
 
-### 🔥 Öne Çıkan Projeler
-* **SmartQuiz:** AI döküman analizi (OCR) ve otomatik soru üretimi yapan SaaS platformu.
-* **UAV Kamikaze AI:** Hedef takip ve otonom dalış algoritmaları içeren İHA yazılımı.
-* **KahootClone:** AI destekli sınav ve performans analiz motoru.
-
----
-
 ### 📫 İletişim
-- 💼 [LinkedIn Profilin]
-- 📧 [E-posta Adresin]
+- 💼 [https://www.linkedin.com/in/furkan-do%C4%9Fan-5322a62a0/]
+- 📧 [doganfurkan440@gmail.com]
