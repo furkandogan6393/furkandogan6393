@@ -13,7 +13,7 @@ Ardahan Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Geleneksel yazı
 | **Artificial Intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 | **AI Specialization** | **Fine-tuning (LLMs), RAG (Retrieval-Augmented Generation), OCR, Object Tracking (ByteTrack/BoT-SORT)** |
 | **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Defense Tech** | **UAV (İHA) Autonomous Tracking, Mission Planner, Gazebo Simulations** |
+| **Defense Tech** | **Yolo ve diğer görüntü üzerinden takip algoritmaları üzerinde tecrübe** |
 
 ---
 
